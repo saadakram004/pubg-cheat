@@ -1,7 +1,7 @@
 # 🎯 PUBG Cheat - The Ultimate Undetected PUBG Aimbot, ESP & HWID Spoofer Toolkit
 
 Welcome to the most feature-complete and performance-optimized **PUBG Cheat** suite available as an educational open-source project. Designed for enthusiasts, security researchers, and developers, this toolset allows a hands-on understanding of advanced game cheat mechanics, especially for **PlayerUnknown's Battlegrounds (PUBG)**.
----
+
 [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
 ---
 [![PUBG Cheat](https://github.com/pubg-undetected/pubg-cheat/blob/main/PUBG%20Cheats.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
