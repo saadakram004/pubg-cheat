@@ -3,7 +3,7 @@
 Welcome to the most feature-complete and performance-optimized **PUBG Cheat** suite available as an educational open-source project. Designed for enthusiasts, security researchers, and developers, this toolset allows a hands-on understanding of advanced game cheat mechanics, especially for **PlayerUnknown's Battlegrounds (PUBG)**.
 
 [![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
----
+
 [![PUBG Cheat](https://github.com/pubg-undetected/pubg-cheat/blob/main/PUBG%20Cheats.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
 
 Whether you're exploring how cheats interface with anti-cheat systems or building private loaders, this project covers key modules like a fully functional **PUBG Aimbot**, highly detailed **ESP**, customizable visuals, an advanced **Radar system**, **HWID Spoofer**, and even **Streamproof rendering**. Compatible across most modern systems, the cheat operates seamlessly on **Windows 10/11**, any **CPU**, any **Motherboard**, and supports **Fullscreen**, **StreamerMode**, and even older PUBG versions.
